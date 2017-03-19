@@ -1,0 +1,10 @@
+input email file --> spam or clean or don't know
+
+preprocessing --> break the email into header and body
+
+header -> conventional and added by other MTAs
+dictionary {header: value} 
+
+
+
+body -> mime parts, attachmnets, images etc..
